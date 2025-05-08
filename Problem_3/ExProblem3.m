@@ -24,5 +24,5 @@ function plot_data(data_x, data_y, x_solve, y_solve)
     legend('Data points', 'Least squares method')
     xlabel('$ Current ~Data $','Interpreter','latex','FontSize',20); 
     ylabel('$ Voltage ~Data $','Interpreter','latex','FontSize',20);
-    title('Example Problem 2','FontSize',20)
+    title('Example Problem 3','FontSize',20)
 end
